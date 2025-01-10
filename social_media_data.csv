@@ -1,0 +1,11 @@
+post_id,timestamp,platform,content,hashtags,post_type,likes,comments,shares,retweets,impression_count,click_through_rate,sentiment_score
+1,2024-01-01T09:15:23,Twitter,"Just launched our new smartwatch! Can't wait to hear your thoughts 🚀","#tech #innovation #smarttech",product,245,32,0,18,892,0.032,0.75
+2,2024-01-02T14:30:45,Instagram,"Flash sale! 50% off all electronics this weekend only! 🏷️","#sale #tech #deals",promo,1893,156,245,0,5439,0.047,0.82
+3,2024-01-03T11:20:15,LinkedIn,"Introducing the all-new laptop! Available now in stores 🎉","#innovation #technology #future",product,567,89,134,0,2234,0.028,0.65
+4,2024-01-04T16:45:30,Facebook,"We're here to help! DM us for support 🤝","#support #customerservice",service,123,45,12,0,789,0.015,0.45
+5,2024-01-05T13:25:10,Twitter,"What's your favorite gadget? Let us know in the comments! 💭","#tech #gadgets #trending",engagement,789,234,0,89,3456,0.025,0.88
+6,2024-01-06T10:15:00,Instagram,"Buy one get one free on all accessories today! 🎁","#sale #accessories #offer",promo,2345,178,456,0,6789,0.052,0.76
+7,2024-01-07T15:40:20,LinkedIn,"The wait is over! Our new tablet is here and it's amazing! 💫","#innovation #tablet #tech",product,890,145,234,0,3567,0.035,0.92
+8,2024-01-08T12:30:45,Facebook,"Having issues? Our team is available 24/7 👋","#support #customercare",service,234,89,23,0,1234,0.018,0.56
+9,2024-01-09T09:55:30,Twitter,"Double tap if you love tech! ❤️","#tech #love #digital",engagement,1567,123,0,345,5678,0.028,0.95
+10,2024-01-10T14:20:15,Instagram,"Special offer: Free shipping on orders over $50! 📦","#offer #freeshipping #shop",promo,3456,234,567,0,8901,0.043,0.85
